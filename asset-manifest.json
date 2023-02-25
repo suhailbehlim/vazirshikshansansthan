@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/vazirshikshansansthan/static/css/main.1dd5bb83.css",
+    "main.js": "/vazirshikshansansthan/static/js/main.d6cc32e3.js",
+    "static/js/787.c4e8b41b.chunk.js": "/vazirshikshansansthan/static/js/787.c4e8b41b.chunk.js",
+    "static/media/c3.jpg": "/vazirshikshansansthan/static/media/c3.f1aac0b35f61c55a9268.jpg",
+    "static/media/logo.png": "/vazirshikshansansthan/static/media/logo.577e85a310ce851ba621.png",
+    "static/media/logo.svg": "/vazirshikshansansthan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vazirshikshansansthan/index.html",
+    "main.1dd5bb83.css.map": "/vazirshikshansansthan/static/css/main.1dd5bb83.css.map",
+    "main.d6cc32e3.js.map": "/vazirshikshansansthan/static/js/main.d6cc32e3.js.map",
+    "787.c4e8b41b.chunk.js.map": "/vazirshikshansansthan/static/js/787.c4e8b41b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dd5bb83.css",
+    "static/js/main.d6cc32e3.js"
+  ]
+}
